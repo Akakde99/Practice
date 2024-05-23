@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome User Events - On ClickOn Key Press Ele",
+  "Type": "App",
+  "Id": "ymifD8369EiU0kq8sDpzoA",
+  "Reference": "IamF_ZB2r0KfpQ_hWSeqxQ/ymifD8369EiU0kq8sDpzoA",
+  "Created": "2024-05-22T06:41:45.4206058Z",
+  "Updated": "2024-05-22T06:41:45.4206058Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

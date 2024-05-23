@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RFUnii8f8UaRlhuB520c-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://forum.uipath.com/t/user-events-on-click-on-key-press-element/162854" CVScreenId="baa46d2e-1bf1-464b-9eff-20be956c2e59" CvTextArea="260, 741, 207, 18" CvType="AnyWordGroup" DesignTimeRectangle="262, 738, 1024, 28" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='quote-id-162854-1-0' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='quote-id-162854-1-0' tag='P' type='' class='' /&gt;" Guid="e126907e-3906-4b3a-99d7-c655b705e871" ScopeSelectorArgument="&lt;html app='chrome.exe' title='User Events - On Click/On Key Press Element - Help - UiPath Community Forum' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="749f813a2b5b412a9de5b1092891b1fd.png" xmlns="">0DCP-V24QfUaIvKXobkXYHA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

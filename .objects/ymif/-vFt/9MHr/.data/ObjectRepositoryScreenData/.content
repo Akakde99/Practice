@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="7y3O6F0wAEiiKL3u8hYGqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJMSURBVFhH7Zc9a1RBGIX9TIwELIRgaSOCadUiomAKCxO00NrGRlshooWiNiLaWKVKIym09w9oMClCtBLEQvQHWIriV3Ke5RwYL/fuXjdutnHh4d057zsz587eO3d22/czE+vDpGrg9xbRaGDLiYG4uiKOiJNi6h9zShwWc4K5fhGrBpgcbZBwccz1k4hQGiCJNiZ2id0FtOuo1hB3inJSGHc8JxoNsFRoDETcbvjegU/ZFqlJXeJN8V48czvMiJ4G6q6gQ42BOo4LxgtPRHKtDMC8eCM+iMvWRmygXJVVsSQ+iqvWrgnG++y4JlI/a62ngbfW4KG1PTUGUgOPrJH/ZA1Oi9S3XoGX1uC2tSYD3xxvWQvlU8WNTWxt4JU1uGOtyUBnMJE6ngSe+0OCMfeL1A/UwF1r0cNFazAUA0wa/b+BzRlw7HUTRg+bNpAr62XgnrXooS8DK9bghrUYKCHfebWK7BfRQ18GXliDRWu80XhRxQjfUwPTIv1LvS8DD6xllzsokgv3BbkfjqMiOdqhLwMHrGV54ZI4Ko6JBWsx+Fykb8YNf20g+/Zjgf7VsUqp7xOZJOPG/Flr0MoAe3k68PuT68akqPYr8xesQSsD3Fzlo3ZCPBVfRAZ9La6L1OQUFTgnLIt3gv7RWxsgYqLxdFRQnbyOrE5XA7xC0fYKOgTasEOQx9iI4LHkzi9rA3qgTX/6nheNBji3ow0SVrnRAH8aOJpzdGapOL8F2nWUNd1quXImZ1tnrj/+mAyNqgFcsTSDpNzYhr0CE+sbzdNxRGl+K9IAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='User Events - On Click/On Key Press Element - Help - UiPath Community Forum' /&gt;" Title="User Events - On Click/On Key Press Element - Help - UiPath Community Forum" Url="https://forum.uipath.com/t/user-events-on-click-on-key-press-element/162854">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7c2e755a47cd280728d3fdb74a91983.jpg" xmlns="">0Dl-ffXBNWE2OlHf9PtIMtA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

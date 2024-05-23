@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Get Sources Element”'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_f9jJPaDnU2g6gjV4o89cQ",
+  "Reference": "IamF_ZB2r0KfpQ_hWSeqxQ/_f9jJPaDnU2g6gjV4o89cQ",
+  "ParentRef": "IamF_ZB2r0KfpQ_hWSeqxQ/9MHr57YiOUSGrDqXcqEFUw",
+  "Created": "2024-05-22T06:41:45.8449956Z",
+  "Updated": "2024-05-22T06:41:45.8449956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

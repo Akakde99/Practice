@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome User Events - On ClickOn Key Press Ele",
+  "Type": "Screen",
+  "Id": "9MHr57YiOUSGrDqXcqEFUw",
+  "Reference": "IamF_ZB2r0KfpQ_hWSeqxQ/9MHr57YiOUSGrDqXcqEFUw",
+  "ParentRef": "IamF_ZB2r0KfpQ_hWSeqxQ/-vFtwXEgkESHY5w7_i4-sQ",
+  "Created": "2024-05-22T06:41:45.4777903Z",
+  "Updated": "2024-05-22T06:41:45.4777903Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
